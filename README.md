@@ -1,4 +1,4 @@
-<h1> Jogo do Número Secreto</h1>
+<h1 aling="center"> Jogo do Número Secreto</h1>
 
 <p> Curso de como utilizar o GitHub </p>
 
